@@ -1,6 +1,4 @@
----
 
-```md
 # InputValidation (C++)
 
 A simple and reusable **C++ input validation library** for validating user input such as numbers, dates, ranges, and formatted values in console or desktop applications.
@@ -83,7 +81,6 @@ int number = clsInputValidation::ReadIntNumber("Enter a number: ");
 ## 📄 License
 
 This project is open-source and free to use for learning and personal projects.
-
 
 
 
